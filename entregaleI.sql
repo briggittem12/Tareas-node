@@ -1,21 +1,7 @@
 Cargando historial...
 
 
-Martin Vergara Téllez
-  19:41
-Tas enojada?
 
-
-Briggitte
-:hada_hembra:  19:43
-Un poco
-:pilybeauty:
-1
-
-
-
-Martin Vergara Téllez
-  12:21
 /*
 table users {
 
